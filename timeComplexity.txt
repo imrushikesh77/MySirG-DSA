@@ -1,0 +1,21 @@
+/*
+* Constant - 1
+* Logarithmic - log n 
+* Linear Logarithmic - n log n
+* Linear - n
+* Quadratic - n^2
+* Cubic - n^3
+* Exponential - 2^n, 3^n, ...
+
+------------*****------------
+* Fast to slow time complexityA
+
+* Best 1(constant)
+
+* 1 < log(log n) < sqrt(log n) < (log n)^2 < 2^(log n) < n < log(n!) < n(log(n)) < n^2 < 2^n < 4^n < n! 2^(2^n) 
+
+* Asymptotic Notation 
+    * Worst Case -> Big O Notation
+    * Best Case -> Omega Notation
+    * Average Case -> Theta Notation
+*/
